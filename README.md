@@ -20,7 +20,7 @@ Este proyecto es un portafolio de pruebas automatizadas utilizando Cypress y Cuc
 
 ## Ejecución de las pruebas 🚦
 
-Para ejecutar las pruebas, utiliza el siguiente comando:
+Para ejecutar las pruebas, utiliza el siguiente comando:`npm run test`⬇️
 
 
 Esto iniciará la ejecución de las pruebas utilizando Cypress y Cucumber.
