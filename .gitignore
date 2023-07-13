@@ -41,4 +41,5 @@
 .env.*.local
 .env.test.local
 
+
 # Cualquier otro archivo o directorio específico de tu proyecto que no sea necesario en el repositorio
